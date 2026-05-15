@@ -13,7 +13,7 @@
       <li><a href="<?= base_url('/') ?>#formations">Formations &amp; Ateliers</a></li>
       <li><a href="<?= base_url('/') ?>#adhesion">Adhésion &amp; Tarifs</a></li>
       <li><a href="<?= base_url('/') ?>#projets">Projets &amp; Tutos</a></li>
-      <li><a href="<?= base_url('/') ?>#entreprises">Offre Entreprises</a></li>
+      <!-- <li><a href="<?= base_url('/') ?>#entreprises">Offre Entreprises</a></li> -->
       <li><a href="<?= base_url('/') ?>#contact">Contact</a></li>
     </ul>
 

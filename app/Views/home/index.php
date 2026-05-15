@@ -10,7 +10,7 @@
 <div class="divider"></div>
 <?= view('home/_projets') ?>
 <div class="divider"></div>
-<?= view('home/_entreprises') ?>
+<?php /* view('home/_entreprises') */ ?>
 <?= view('home/_cta_band') ?>
 <?= view('home/_contact') ?>
 

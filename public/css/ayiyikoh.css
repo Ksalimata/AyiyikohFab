@@ -194,8 +194,8 @@ section { position: relative; overflow: hidden; }
 
 /* ═══════ FORMATIONS ═══════ */
 #formations { background: var(--bg-white); }
-.formation-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 22px; }
-.formation-card { padding: 26px; }
+.formation-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 22px; }
+.formation-card { padding: 26px; flex: 0 1 350px; min-width: 280px; }
 .fc-icon { width: 46px; height: 46px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; margin-bottom: 18px; }
 .fci-teal   { background: var(--teal-light); color: var(--teal); }
 .fci-green  { background: var(--green-light); color: var(--green); }
@@ -224,7 +224,8 @@ section { position: relative; overflow: hidden; }
 
 /* ═══════ ADHÉSION & TARIFS ═══════ */
 #adhesion { background: var(--bg); }
-.pricing-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 22px; align-items: start; }
+.pricing-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; align-items: start; }
+@media (max-width: 900px) { .pricing-grid { grid-template-columns: 1fr; max-width: 480px; margin-left: auto; margin-right: auto; } }
 .pricing-card { padding: 32px; }
 .pricing-card.popular { background: linear-gradient(160deg, rgba(0,155,168,.04), var(--bg-white)); border-color: var(--teal); box-shadow: 0 8px 40px rgba(0,155,168,.15); }
 .pop-badge { background: linear-gradient(90deg, var(--teal), var(--green)); color: #fff; font-family: var(--font-display); font-size: .68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; padding: 4px 14px; border-radius: var(--radius-pill); display: inline-block; margin-bottom: 16px; }

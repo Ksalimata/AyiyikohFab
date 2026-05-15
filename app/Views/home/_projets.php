@@ -49,7 +49,7 @@
         </div>
       </div>
 
-      <div class="card-fab proj-card">
+      <!-- <div class="card-fab proj-card">
         <div class="proj-thumb pt-laser">✂️</div>
         <div class="proj-body">
           <span class="chip chip-teal mb-2">Laser</span>
@@ -86,7 +86,7 @@
             <span style="font-size:.78rem;color:var(--text-muted);"><i class="bi bi-heart-fill" style="color:var(--teal);"></i> 412</span>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="card-fab proj-card">
         <div class="proj-thumb pt-agri">🌱</div>
@@ -104,7 +104,7 @@
     </div><!-- /.proj-grid -->
 
     <!-- Tutoriels -->
-    <div style="margin-top:56px;" data-aos="fade-up">
+    <!-- <div style="margin-top:56px;" data-aos="fade-up">
       <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-bottom:22px;">
         <div>
           <span class="chip chip-accent mb-2">Tutoriels</span>
@@ -148,7 +148,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
   </div>
 </section>

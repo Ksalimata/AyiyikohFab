@@ -1,7 +1,7 @@
 <section id="formations" class="section-wrap">
   <div class="container-fab">
 
-    <div class="section-header" data-aos="fade-up">
+    <div class="section-header centered" data-aos="fade-up">
       <span class="chip chip-teal mb-3">Formations &amp; Ateliers</span>
       <h2 class="section-title">Apprenez à <span class="hl-teal">créer</span> avec vos mains.</h2>
       <p class="section-lead">Formations courtes et intensives pour tous les niveaux — du curieux au maker confirmé.</p>
@@ -26,23 +26,9 @@
         </div>
       </div>
 
-      <div class="card-fab formation-card stripe-teal" data-aos="fade-up" data-aos-delay="60">
-        <div class="fc-icon fci-green"><i class="bi bi-printer"></i></div>
-        <span class="chip chip-green mb-3">Fabrication 3D</span>
-        <h3>Impression 3D &amp; CAO</h3>
-        <p>Maîtrisez Fusion 360 et les imprimantes FDM. De la modélisation à la pièce imprimée.</p>
-        <div class="fc-meta">
-          <span><i class="bi bi-clock"></i> 12h</span>
-          <span><i class="bi bi-people"></i> Max 8</span>
-          <span><i class="bi bi-bar-chart"></i> Tous niveaux</span>
-        </div>
-        <div class="fc-footer">
-          <div class="fc-price">20 000 FCFA <small>/ pers.</small></div>
-          <button class="btn-circle"><i class="bi bi-arrow-right"></i></button>
-        </div>
-      </div>
+     
 
-      <div class="card-fab formation-card stripe-teal" data-aos="fade-up" data-aos-delay="120">
+     <!--  <div class="card-fab formation-card stripe-teal" data-aos="fade-up" data-aos-delay="120">
         <div class="fc-icon fci-accent"><i class="bi bi-scissors"></i></div>
         <span class="chip chip-accent mb-3">Découpe Laser</span>
         <h3>Découpe Laser &amp; Vinyle</h3>
@@ -56,7 +42,7 @@
           <div class="fc-price">15 000 FCFA <small>/ pers.</small></div>
           <button class="btn-circle"><i class="bi bi-arrow-right"></i></button>
         </div>
-      </div>
+      </div> -->
 
       <div class="card-fab formation-card stripe-teal" data-aos="fade-up">
         <div class="fc-icon fci-teal"><i class="bi bi-code-slash"></i></div>
@@ -109,7 +95,7 @@
     </div><!-- /.formation-grid -->
 
     <!-- Calendrier des prochains ateliers -->
-    <div class="ateliers-box" data-aos="fade-up" data-aos-delay="80">
+    <!-- <div class="ateliers-box" data-aos="fade-up" data-aos-delay="80">
       <div class="ateliers-box-header">
         <h4><i class="bi bi-calendar3 me-2"></i>Prochains ateliers</h4>
         <a href="#" class="btn-outline" style="padding:7px 16px;font-size:.8rem;">
@@ -145,7 +131,8 @@
           <div class="a-places"><i class="bi bi-people" style="color:var(--teal);"></i> Ouvert à tous</div>
         </div>
       </div>
-    </div>
+    </div> -->
 
+    
   </div>
 </section>
