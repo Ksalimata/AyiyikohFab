@@ -31,7 +31,7 @@
           Voir les projets <i class="bi bi-play-circle"></i>
         </a>
       </div>
-
+      
       <!-- Stats animées -->
       <div class="hero-stats" data-aos="fade-up" data-aos-delay="320">
         <div class="hero-stat">

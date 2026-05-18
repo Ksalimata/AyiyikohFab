@@ -91,7 +91,6 @@
           <button class="btn-circle" style="background:var(--green-light);color:var(--green);"><i class="bi bi-arrow-right"></i></button>
         </div>
       </div>
-
     </div><!-- /.formation-grid -->
 
     <!-- Calendrier des prochains ateliers -->

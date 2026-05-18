@@ -1,7 +1,6 @@
 <section id="entreprises" class="section-wrap">
   <div class="container-fab">
     <div class="entreprises-grid">
-
       <div data-aos="fade-right">
         <span class="chip chip-teal mb-3">Offre Entreprises</span>
         <h2 class="section-title" style="margin-top:12px;">Votre <span class="hl-teal">R&amp;D</span> à prix maker.</h2>
