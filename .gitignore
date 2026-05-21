@@ -1,0 +1,26 @@
+# Dépendances
+/vendor/
+/node_modules/
+
+# CodeIgniter writable (logs, cache, sessions, uploads)
+/writable/logs/*
+/writable/cache/*
+/writable/session/*
+/writable/debugbar/*
+/writable/uploads/*
+
+# Garder la structure des dossiers
+!writable/logs/.gitkeep
+!writable/cache/.gitkeep
+!writable/session/.gitkeep
+!writable/debugbar/.gitkeep
+!writable/uploads/.gitkeep
+
+# Environnement
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db

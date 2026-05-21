@@ -4,14 +4,12 @@
 
 <?= view('home/_hero') ?>
 <div class="divider"></div>
-<?= view('home/_formations') ?>
+<?= view('home/_about') ?>
 <div class="divider"></div>
-<?= view('home/_adhesion') ?>
-<div class="divider"></div>
-<?= view('home/_projets') ?>
-<div class="divider"></div>
-<?php /* view('home/_entreprises') */ ?>
-<?= view('home/_cta_band') ?>
 <?= view('home/_contact') ?>
+<?php /* view('home/_formations') */ ?>
+<?php /* view('home/_adhesion') */ ?>
+<?php /* view('home/_projets') */ ?>
+<?php /* view('home/_cta_band') */ ?>
 
 <?= $this->endSection() ?>

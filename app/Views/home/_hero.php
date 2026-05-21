@@ -23,16 +23,25 @@
         apprendre et bâtir l'Afrique de demain.
       </p>
 
-      <div class="hero-actions" data-aos="fade-up" data-aos-delay="240">
+      <!-- <div class="hero-actions" data-aos="fade-up" data-aos-delay="240">
         <a href="#formations" class="btn-teal">
           Explorer les formations <i class="bi bi-arrow-right"></i>
         </a>
         <a href="#projets" class="btn-outline">
           Voir les projets <i class="bi bi-play-circle"></i>
         </a>
+      </div> -->
+
+      <div class="hero-actions" data-aos="fade-up" data-aos-delay="240">
+        <a href="#about" class="btn-teal">
+          Découvrir notre vision <i class="bi bi-arrow-right"></i>
+        </a>
+        <a href="#contact" class="btn-outline">
+          Nous contacter <i class="bi bi-envelope"></i>
+        </a>
       </div>
       
-      <!-- Stats animées -->
+      <!-- Stats animées
       <div class="hero-stats" data-aos="fade-up" data-aos-delay="320">
         <div class="hero-stat">
           <div class="hero-stat-num"><span id="c1">0</span><span class="plus">+</span></div>
@@ -51,6 +60,7 @@
           <div class="hero-stat-label">Machines dispo</div>
         </div>
       </div>
+      -->
     </div>
 
     <!-- Colonne droite : card événements -->
@@ -65,8 +75,8 @@
       <div class="hero-card-main">
         <div class="hero-card-top">
           <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">
-            <img src="<?= base_url('img/logo.jpeg') ?>" alt="Logo Ayiyikoh"
-                 style="width:40px;height:40px;border-radius:50%;border:2px solid rgba(255,255,255,.5);">
+            <img src="<?= base_url('img/logo.png') ?>" alt="Logo Ayiyikoh"
+                 style="height:40px;width:auto;max-width:120px;border-radius:6px;border:2px solid rgba(255,255,255,.5);object-fit:contain;">
             <div>
               <div style="font-family:var(--font-display);font-weight:800;font-size:1rem;">Ayiyikoh FabLab</div>
               <div style="font-size:.72rem;opacity:.82;">Prochains événements</div>
@@ -93,16 +103,16 @@
             </div>
             <div><div class="hc-event-title">Open Lab libre</div><div class="hc-event-sub">Ouvert à tous les membres</div></div>
           </div>
-          <a href="#formations" class="btn-teal" style="width:100%;justify-content:center;margin-top:16px;">
+          <a href="#contact" class="btn-teal" style="width:100%;justify-content:center;margin-top:16px;">
             S'inscrire <i class="bi bi-arrow-right"></i>
           </a>
         </div>
       </div>
 
-      <div class="float-pill fp2">
+      <!-- <div class="float-pill fp2">
         <div class="float-dot dot-green"></div>
         <span>12 makers connectés</span>
-      </div>
+      </div> -->
     </div>
 
   </div>

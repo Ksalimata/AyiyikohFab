@@ -2,7 +2,7 @@
   <div class="footer-inner">
     <div>
       <div class="footer-logo">
-        <img src="<?= base_url('img/logo.jpeg') ?>" alt="Logo Ayiyikoh">
+        <img src="<?= base_url('img/logo.png') ?>" alt="Logo Ayiyikoh">
         <span>Ayiyikoh</span>
       </div>
       <p class="footer-desc">

@@ -101,7 +101,9 @@
         </div>
       </div>
 
-    </div><!-- /.proj-grid -->
+    </div>
+    
+    <!-- /.proj-grid -->
     <!-- Tutoriels -->
     <!-- <div style="margin-top:56px;" data-aos="fade-up">
       <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-bottom:22px;">
